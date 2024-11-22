@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ## GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat1eub&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat1eub&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat1eub&langs_count=8)
