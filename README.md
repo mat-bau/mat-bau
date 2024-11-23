@@ -1,21 +1,9 @@
 ## Hi there 👋
+<img alt="mat1eub' GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=mat1eub&theme=gruvbox_light&show_icons=true">
 
-<!--
-**Mat1eub/Mat1eub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## GitHub stats
+🌱 I'm a student at the UCLouvain, Belgium, currently studying Electrical Engineering and Computer Sciences. 
+🔬I aspire to work in Computer Engineering to improve technologies and their use in the transition to sustainable development.
+👯 I’m looking to collaborate on projects that will make me learn and work on new things!
+📫 How to reach me: mateo.bauvir@student.uclouvain.be
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat1eub&show_icons=true&theme=gruvbox_light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat1eub&langs_count=8)
